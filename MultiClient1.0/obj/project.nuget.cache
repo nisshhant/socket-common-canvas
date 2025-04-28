@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3T9Lym27UTw=",
+  "success": true,
+  "projectFilePath": "E:\\Internship\\winforms\\Canvass\\MultiClient1.0\\MultiClient1.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
